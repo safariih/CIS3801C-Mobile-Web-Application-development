@@ -1,0 +1,7 @@
+id    name                     price        rating
+1     Artificial Skin          $2,000  3
+2     Moth-Eye screen          $200    4
+3     Smart exoskeleton        $4,000  2
+4     Wired Roads              $45m    1
+5     Self Driving cars        $20m    5
+6     Laser-printed nano-tech  $5,000  5
