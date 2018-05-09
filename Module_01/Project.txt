@@ -1,0 +1,7 @@
+id    name                     team    rating
+1     Artificial Skin          Blues   3
+2     Moth-Eye screen          Reds    4
+3     Smart exoskeleton        Blues   2
+4     Wired Roads              Blues   1
+5     Self Driving cars        Reds    5
+6     Laser-printed nano-tech  Blues   5
